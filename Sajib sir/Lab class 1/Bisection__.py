@@ -14,7 +14,8 @@ class EquationParser:
         for term in terms:
             coefficient = term[0]
             power = int(term[1])  
-            
+             
+             
             if coefficient in ['', '+']:
                 coefficient = 1
             elif coefficient == '-':
