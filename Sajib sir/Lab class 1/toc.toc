@@ -1,0 +1,11 @@
+\contentsline {section}{Bisection Method for Root Finding}{1}{}%
+\contentsline {section}{False Position Method for Root Finding}{2}{}%
+\contentsline {section}{Secant Method for Root Finding}{3}{}%
+\contentsline {section}{Gauss-Seidel Method for Solving Linear Systems}{4}{}%
+\contentsline {section}{Least Squares Regression Method for Data Fitting}{5}{}%
+\contentsline {section}{Fitting Transcendental Equations for Curve Derivation}{6}{}%
+\contentsline {section}{Euler Method for Solving Ordinary Differential Equations}{7}{}%
+\contentsline {section}{Cramer`s Rule for Solving Linear Systems}{8}{}%
+\contentsline {section}{Simpson's 1/3 Rule for Numerical Integration}{10}{}%
+\contentsline {section}{Simpson's 3/8 Rule for Numerical Integration}{11}{}%
+\contentsline {section}{Trapezoidal Rule for Numerical Integration}{12}{}%
